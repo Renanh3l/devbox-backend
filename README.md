@@ -1,5 +1,5 @@
 # devbox-backend
-Backend do projeto devbox, um simples clone baseado no dropbox.
+Backend do projeto de estudo devbox, um simples clone baseado no dropbox.
 
 ###### Nesse projeto utilizei as tecnologias e bibliotecas:
 
