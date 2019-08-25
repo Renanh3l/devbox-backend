@@ -38,6 +38,6 @@ app.use(require('./routes'));
 app.use('/files', express.static(path.resolve(__dirname, '..', 'tmp')));
 
 // Inicia o servidor
-server.listen(3333, function() {
+server.listen(process.env.PORT || 3333, function() {
     console.log('Servidor iniciado.');
 });
